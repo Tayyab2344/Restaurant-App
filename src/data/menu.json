@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "name": "Chicken Biryani",
+    "description": "Authentic Abbottabad style biryani with long grain basmati rice and tender chicken.",
+    "price": 550,
+    "category": "Main Course",
+    "available": true,
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": "2",
+    "name": "Seekh Kabab",
+    "description": "Succulent minced meat skewers charred to perfection on charcoal.",
+    "price": 450,
+    "category": "Appetizers",
+    "available": true,
+    "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": "3",
+    "name": "Chicken Karahi",
+    "description": "Traditional spicy karahi cooked in a wok with fresh tomatoes and ginger.",
+    "price": 1200,
+    "category": "Desi Special",
+    "available": true,
+    "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": "4",
+    "name": "Garlic Naan",
+    "description": "Freshly baked clay oven bread topped with minced garlic and butter.",
+    "price": 60,
+    "category": "Sides",
+    "available": true,
+    "image": "https://images.unsplash.com/photo-1626074353765-517a681e40be?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": "5",
+    "name": "Chapli Burger",
+    "description": "Peshawari style chapli kabab patty in a soft bun with traditional chutneys.",
+    "price": 350,
+    "category": "Fast Food",
+    "available": true,
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": "6",
+    "name": "Masala Fries",
+    "description": "Crispy fries tossed in our signature Lahori spice blend.",
+    "price": 250,
+    "category": "Fast Food",
+    "available": true,
+    "image": "https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": "7",
+    "name": "Lassi",
+    "description": "Refreshing traditional yogurt-based drink, sweet or salty.",
+    "price": 180,
+    "category": "Beverages",
+    "available": true,
+    "image": "https://images.unsplash.com/photo-1571115177098-24ec42ed204d?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": "8",
+    "name": "Gulab Jamun",
+    "description": "Soft milk-solid balls dipped in rose-scented sugar syrup.",
+    "price": 150,
+    "category": "Desserts",
+    "available": true,
+    "image": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": "9",
+    "name": "Pakola",
+    "description": "The national drink of Pakistan, distinct cream soda flavor.",
+    "price": 120,
+    "category": "Beverages",
+    "available": true,
+    "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": "10",
+    "name": "Zinger Burger",
+    "description": "Crispy fried chicken breast with mayo and lettuce.",
+    "price": 450,
+    "category": "Fast Food",
+    "available": true,
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": "11",
+    "name": "Mutton Karahi",
+    "description": "Tender mutton cooked in wok with black pepper and green chilies.",
+    "price": 1800,
+    "category": "Desi Special",
+    "available": true,
+    "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": "12",
+    "name": "Kheer",
+    "description": "Traditional rice pudding with cardamom and nuts.",
+    "price": 200,
+    "category": "Desserts",
+    "available": true,
+    "image": "https://images.unsplash.com/photo-1567337710282-00832b415979?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": "13",
+    "name": "Samosa Chaat",
+    "description": "Crispy samosas served with chickpeas, yogurt and chutneys.",
+    "price": 150,
+    "category": "Appetizers",
+    "available": true,
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": "14",
+    "name": "Club Sandwich",
+    "description": "Triple decker sandwich with chicken, egg, cheese and veggies.",
+    "price": 400,
+    "category": "Fast Food",
+    "available": true,
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?q=80&w=300&auto=format&fit=crop"
+  }
+]
