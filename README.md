@@ -1,8 +1,8 @@
-# Restaurant Customer App 🍔
+# Restaurant Customer App
 
 A premium, feature-rich mobile application for restaurant customers, built with **React Native** and **Expo**. This app provides a seamless flow from dish discovery to checkout, with a focus on high-quality UI/UX.
 
-## 🚀 Key Features
+## Key Features
 
 - **Authentication**: Secure login and registration flow.
 - **Dynamic Menu**: Categorized dishes with detailed descriptions and high-quality visuals.
@@ -13,7 +13,7 @@ A premium, feature-rich mobile application for restaurant customers, built with 
 - **Support & Help**: Help center and problem reporting features.
 - **Dark Mode Support**: Optimized for both light and dark themes.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Framework**: [Expo SDK 54](https://expo.dev/) (React Native)
 - **State Management**: [Zustand](https://github.com/pmndrs/zustand)
@@ -22,7 +22,7 @@ A premium, feature-rich mobile application for restaurant customers, built with 
 - **Styling**: Vanilla React Native StyleSheet + Expo Linear Gradient
 - **Language**: TypeScript
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 src/
@@ -34,7 +34,7 @@ src/
 └── types/          # TypeScript interface definitions
 ```
 
-## 🚥 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -61,7 +61,7 @@ src/
 
 Scan the QR code printed in the terminal with your **Expo Go** app (Android) or **Camera** app (iOS).
 
-## 📱 Available Screens
+## Available Screens
 
 Detailed implementations can be found in `src/screens/`:
 
@@ -73,9 +73,9 @@ Detailed implementations can be found in `src/screens/`:
 - `OrderDetailScreen`: Track order status and history.
 - `ProfileScreen`: User settings and account management.
 
-## 📄 License
+## License
 
 This project is for demonstration and development purposes.
 
 ---
-*Developed with ❤️ as part of a high-end restaurant service solution.*
+*Developed as part of a high-end restaurant service solution.*
