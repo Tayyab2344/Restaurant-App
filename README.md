@@ -38,8 +38,10 @@ src/
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (Latest LTS)
-- [Expo Go](https://expo.dev/go) app on your mobile device (to test on physical device)
+- **Node.js**: v20.x or later (LTS recommended)
+- **Expo SDK**: v54.0.x
+- **Expo Go**: Compatible with SDK 54 (Latest version from App Store/Play Store)
+- **Mobile Device**: Physical device or Emulator/Simulator for testing
 
 ### Installation
 
